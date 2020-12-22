@@ -88,7 +88,7 @@
     "@types/recursive-readdir": "^2.2.0",
     "@types/tmp": "0.0.33",
     "@types/watch": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chai": "^4.1.2",
     "coveralls": "^3.0.1",
     "fs-copy-file-sync": "^1.1.1",
